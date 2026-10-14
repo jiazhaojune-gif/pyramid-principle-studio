@@ -1,0 +1,5 @@
+Pyramid Principle Studio / 金字塔表达工作室
+Contains adapted reference material from pyramid-principle v0.1.2 by Tyrone Ross, Jr, provided under Apache License 2.0.
+Original project: https://github.com/tyroneross/pyramid-principle
+Modified 2026-10-15: unified Chinese entrypoint, local reference routing, flexible output rules, source checks, documentation and packaging. See docs/SOURCES.md.
+Additional supplied Chinese learning materials have separate rights; Apache-2.0 does not cover the entire collection.

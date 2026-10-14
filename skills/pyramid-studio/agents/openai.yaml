@@ -1,0 +1,4 @@
+interface:
+  display_name: "金字塔表达工作室"
+  short_description: "用一个入口整理邮件、报告、PPT故事线与问题分析，检查逻辑并保留事实边界"
+  default_prompt: "使用 $pyramid-studio 把以下材料整理成结论先行、理由清楚的汇报。"
