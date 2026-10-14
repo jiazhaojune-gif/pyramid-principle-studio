@@ -75,9 +75,8 @@ python3 scripts/install.py
 
 ## 关于这个项目
 
-[产品介绍](docs/INTRODUCTION.md) · [介绍海报](posters/pyramid-studio-introduction.png) · [行为验收与检查范围](docs/ACCEPTANCE.md) · [来源与许可](docs/SOURCES.md)
+[产品介绍](docs/INTRODUCTION.md) · [介绍海报](posters/pyramid-studio-introduction.png) · [行为验收与检查范围](docs/ACCEPTANCE.md)
 
-本仓库由用户提供并确认可公开再分发的两份资料整合。Apache-2.0 适用于其中相应来源部分，完整许可范围见 [NOTICE](NOTICE) 与 [SOURCES.md](docs/SOURCES.md)。
 
 <div align="center">
 <br />

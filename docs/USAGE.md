@@ -83,12 +83,7 @@ skills/pyramid-studio/
 ## 分享介绍与海报
 
 - [可转发介绍](../docs/INTRODUCTION.md)
-- [来源、改动与许可范围](../docs/SOURCES.md)
 - [使用示例与行为验收](../docs/ACCEPTANCE.md)
 - [苹果风介绍海报](../posters/pyramid-studio-introduction.png)，介绍技能定位、能力与价值。由内置 image_gen 生成，完整提示词见 [POSTER-PROMPTS.json](../docs/POSTER-PROMPTS.json)。
 
 ![金字塔表达工作室介绍](../posters/pyramid-studio-introduction.png)
-
-## 来源与许可
-
-方法基于 Barbara Minto 的金字塔原理。本项目包含用户提供并确认可公开再分发的两份资料，保留上游作者信息及 Apache-2.0 来源部分的许可证。**公开仓库不等于整套内容均以 Apache-2.0 开源**；完整范围见 [SOURCES.md](../docs/SOURCES.md) 与 [NOTICE](../NOTICE)。项目与原书作者、上游作者或 Johnson & Johnson 无官方关联。
