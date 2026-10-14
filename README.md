@@ -85,11 +85,9 @@ skills/pyramid-studio/
 - [可转发介绍](docs/INTRODUCTION.md)
 - [来源、改动与许可范围](docs/SOURCES.md)
 - [使用示例与行为验收](docs/ACCEPTANCE.md)
-- 海报位于 `posters/`，红白简洁视觉；不含第三方品牌标志。由内置 image_gen 生成，完整提示词见 [POSTER-PROMPTS.json](docs/POSTER-PROMPTS.json)。
+- [一张看懂：苹果风使用海报](posters/pyramid-studio-guide.png)，集中介绍用途、输入方式、调用指令和示例。由内置 image_gen 生成，完整提示词见 [POSTER-PROMPTS.json](docs/POSTER-PROMPTS.json)。
 
-![功能介绍](posters/01-overview.png)
-![如何使用](posters/02-howto.png)
-![表达示例](posters/03-example.png)
+![一张看懂金字塔表达工作室](posters/pyramid-studio-guide.png)
 
 ## 来源与许可
 
