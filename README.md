@@ -13,7 +13,7 @@
 
 <br />
 
-<img src="posters/pyramid-studio-introduction.png" width="760" alt="金字塔表达工作室产品海报：让思想形成力量，贯通观点提炼、论证构建、专业写作、演示叙事、问题拆解与逻辑审阅。" />
+<img src="posters/pyramid-studio-introduction.png" width="760" alt="金字塔表达工作室产品海报：让复杂想法清晰成形，涵盖邮件汇报、报告长文、PPT故事线、问题分析、逻辑审阅与方法理解。" />
 
 <br />
 
