@@ -34,6 +34,16 @@ python3 scripts/install.py
 
 也可以手动复制整个 `skills/pyramid-studio` 文件夹到 Codex 的 skills 目录。复制的是包含 `SKILL.md` 的整个目录，而不是只复制一个文件。新开 Codex 聊天以刷新技能发现；若仍未出现，重启 Codex。
 
+## 安装到 WorkBuddy
+
+在仓库目录运行：
+
+```sh
+python3 scripts/install.py --destination ~/.workbuddy/skills
+```
+
+新开 WorkBuddy 聊天，说明“使用金字塔表达工作室”即可尝试调用；如未刷新，重启应用。安装器会保留同名不同内容的现有目录，升级时请先将旧目录备份到技能目录之外。
+
 ## 怎么提问
 
 最有用的四项输入：**读者、要回答的问题、原始材料、输出形式**。不必写专业术语，也不用每次填表。
