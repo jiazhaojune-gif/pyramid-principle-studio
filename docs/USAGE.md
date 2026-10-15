@@ -1,4 +1,4 @@
-# 金字塔表达工作室 · Pyramid Studio
+# 思维架构师 · Pyramid Architect
 
 **把零散材料整理成先有结论、再有支持的表达。** 一个 Codex skill，统一写邮件、做汇报、搭报告、编 PPT 故事线、分析问题和检查逻辑。
 
@@ -42,7 +42,7 @@ python3 scripts/install.py
 python3 scripts/install.py --destination ~/.workbuddy/skills
 ```
 
-新开 WorkBuddy 聊天，说明“使用金字塔表达工作室”即可尝试调用；如未刷新，重启应用。安装器会保留同名不同内容的现有目录，升级时请先将旧目录备份到技能目录之外。
+新开 WorkBuddy 聊天，说明“使用思维架构师”即可尝试调用；如未刷新，重启应用。安装器会保留同名不同内容的现有目录，升级时请先将旧目录备份到技能目录之外。
 
 ## 怎么提问
 
@@ -106,4 +106,4 @@ skills/pyramid-studio/
 - [使用示例与行为验收](../docs/ACCEPTANCE.md)
 - [苹果风介绍海报](../posters/pyramid-studio-introduction.png)，介绍技能定位、能力与价值。由内置 image_gen 生成，完整提示词见 [POSTER-PROMPTS.json](../docs/POSTER-PROMPTS.json)。
 
-![金字塔表达工作室介绍](../posters/pyramid-studio-introduction.png)
+![思维架构师介绍](../posters/pyramid-studio-introduction.png)

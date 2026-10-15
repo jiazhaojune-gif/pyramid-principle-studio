@@ -1,4 +1,4 @@
 interface:
-  display_name: "金字塔表达工作室"
+  display_name: "思维架构师"
   short_description: "边完成日常沟通与写作，边用简短复盘理解方法，逐步独立运用金字塔原理"
   default_prompt: "使用 $pyramid-studio 帮我把这次沟通讲清楚，再简短教我用了什么原理、日常怎样自己运用。"

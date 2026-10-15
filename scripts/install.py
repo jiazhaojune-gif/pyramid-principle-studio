@@ -30,7 +30,7 @@ def main():
     if digest(source) != digest(target):
         raise SystemExit('Installation verification failed')
     print(f'Installed and verified: {target}')
-    print('Start a new chat in the target app and request pyramid-studio / 金字塔表达工作室.')
+    print('Start a new chat in the target app and request pyramid-studio / 思维架构师.')
 
 if __name__ == '__main__':
     main()
