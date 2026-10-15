@@ -14,4 +14,4 @@
 - 术语：[glossary.md](glossary.md)；模式：[patterns.md](patterns.md)；自查：[cheatsheet.md](cheatsheet.md)
 - 基础原理：[chapters/ch01-why-pyramid.md](chapters/ch01-why-pyramid.md)、[chapters/ch02-pyramid-structure.md](chapters/ch02-pyramid-structure.md)
 
-学习模式可展示搭建过程、对照例子与练习；默认写作模式直接给作品。旧资料中的固定点数、图文比例、词数及未经核验的统计均为历史建议或例子，以 SKILL.md 的适配规则为准。
+默认所有适合的任务都按 [practice.md](practice.md) 给简短方法复盘；明确要求深讲或练习时，再展开原理、对照与迁移练习，每次聚焦一个动作。旧资料中的固定点数、图文比例、词数及未经核验的统计均为历史建议或例子，以 SKILL.md 的适配规则为准。
